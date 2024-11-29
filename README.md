@@ -7,15 +7,17 @@ C(at)M(ouse)R(abbit)Calculator
 
 🌟 简单、优雅、高效的操作体验，伴您左右
 
-[点击这里下载最新版应用](https://github.com/xiaoshuita666/CMRCalculator/releases/download/v1.0.0/CMRCalculator.apk)
+[点击这里下载最新版安卓应用](https://github.com/xiaoshuita666/CMRCalculator/releases/download/v1.0.0/CMRCalculator.apk)
 
 <p float="left">
-  <img src="Images/主题-蒂芙尼蓝.png" alt="Description" width="200"/>
-  <img src="Images/主题-玫瑰粉.png" alt="Description" width="200"/>
-  <img src="Images/主题-薰衣草紫.png" alt="Description" width="200"/>
+  <img src="Images/主题-蒂芙尼蓝.png" alt="Description" width="150"/>
+  <img src="Images/主题-玫瑰粉.png" alt="Description" width="150"/>
 </p>
 <p float="left">
-  <img src="Images/主题-极光蓝.png" alt="Description" width="200"/>
-  <img src="Images/设置界面.png" alt="Description" width="200"/>
-  <img src="Images/添加主题界面.png" alt="Description" width="200"/>
+  <img src="Images/主题-薰衣草紫.png" alt="Description" width="150"/>
+  <img src="Images/主题-极光蓝.png" alt="Description" width="150"/>
+</p>
+<p float="left">
+  <img src="Images/设置界面.png" alt="Description" width="150"/>
+  <img src="Images/添加主题界面.png" alt="Description" width="150"/>
 </p>
