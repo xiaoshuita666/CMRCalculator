@@ -1,6 +1,4 @@
 # CMRCalculator
-思考新名字中......
-
 [点击这里下载最新版安卓应用](https://github.com/xiaoshuita666/CMRCalculator/releases/download/v1.0.0/CMRCalculator.apk)
 
 
