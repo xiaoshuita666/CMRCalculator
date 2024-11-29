@@ -1,5 +1,8 @@
 # CMRCalculator
-C(at)M(ouse)R(abbit)Calculator
+思考新名字中......
+
+[点击这里下载最新版安卓应用](https://github.com/xiaoshuita666/CMRCalculator/releases/download/v1.0.0/CMRCalculator.apk)
+
 
 💖 CMR Calculator：精致到极致的UI设计
 
@@ -7,7 +10,6 @@ C(at)M(ouse)R(abbit)Calculator
 
 🌟 简单、优雅、高效的操作体验，伴您左右
 
-[点击这里下载最新版安卓应用](https://github.com/xiaoshuita666/CMRCalculator/releases/download/v1.0.0/CMRCalculator.apk)
 
 <p float="left">
   <img src="Images/主题-蒂芙尼蓝.png" alt="Description" style="width:48%; margin-right:4%;"/>
